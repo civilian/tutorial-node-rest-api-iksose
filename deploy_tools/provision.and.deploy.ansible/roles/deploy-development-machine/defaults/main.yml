@@ -7,6 +7,10 @@ development_packages:
   - xfce4
   - gnome-terminal
   - apache2
+  - nodejs
+  - npm
+  - nodejs-legacy
+  - mongodb
 # php5 for phpmyadmin
   - php5
   - php5-common
@@ -14,7 +18,4 @@ development_packages:
   - php5-cli
   - php5-mysql
   - libapache2-mod-php5
-  - nodejs
-  - npm
-  - nodejs-legacy
 public_html_dir: /home/{{ project.user }}/public_html
