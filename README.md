@@ -1,1 +1,1 @@
-https://gist.github.com/iksose/9401758
+This a development of a tutorial for a rest api in node with [this](https://gist.github.com/iksose/9401758) tutorial.
